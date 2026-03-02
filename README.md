@@ -18,14 +18,14 @@
 You just finished a feature in 3 minutes with Claude Code. But how long would it have taken a human? **ai-time-saved** tells you — automatically, after every task.
 
 ```
-刚完成: 监控页面新增工作时间统计
+Just finished: Add work time tracking to monitoring dashboard
 
-🧑‍💻 初级工程师大概要 4-6 小时
-   — 光理解插件架构就得 1-2 小时
-🧑‍💼 高级工程师大概 1.5 小时
-   — 知道套路，直接写
-🤖 AI 改了 4 个文件，约 120 行代码
-   — 新增采样脚本 + 检查逻辑 + HTMX 模板 + 页面布局
+🧑‍💻 Junior engineer: ~4-6 hours
+   — Understanding the plugin architecture alone takes 1-2 hours
+🧑‍💼 Senior engineer: ~1.5 hours
+   — Knows the pattern, just writes it
+🤖 AI changed 4 files, ~120 lines of code
+   — New sampler script + check logic + HTMX template + page layout
 ```
 
 > **Fair warning:** The estimates are LLM vibes, not stopwatch science. Think of it as a fun speedometer, not a billing system.
